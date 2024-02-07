@@ -2,5 +2,4 @@
 
 run `npx @medusajs/medusa-cli develop`
 
-user: empanadas.inc.service@gmail.com
-pass: Empanadasinc2024
+ <!-- empanadas.inc.service@gmail.com - Empanadasinc2024 -->
