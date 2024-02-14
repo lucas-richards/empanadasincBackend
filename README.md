@@ -4,5 +4,8 @@ run `npx @medusajs/medusa-cli develop`
 
  <!-- empanadas.inc.service@gmail.com - Empanadasinc2024 -->
 
-for deployment
+for general deployment
 "start": "npm run build && medusa migrations run && medusa start"
+
+on rails
+https://docs.medusajs.com/deployments/server/deploying-on-railway
