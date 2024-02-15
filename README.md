@@ -7,5 +7,5 @@ run `npx @medusajs/medusa-cli develop`
 for general deployment
 "start": "npm run build && medusa migrations run && medusa start"
 
-on rails
+deployment on rails
 https://docs.medusajs.com/deployments/server/deploying-on-railway
