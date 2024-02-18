@@ -10,3 +10,6 @@ for general deployment
 deployment on rails
 https://docs.medusajs.com/deployments/server/deploying-on-railway
 
+
+## Search config
+
